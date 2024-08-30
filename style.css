@@ -1,0 +1,14 @@
+body{background: url(bg1.jpg) no-repeat center fixed; background-size: cover;} 
+
+h1{text-align: center; color: cornsilk;}
+
+.audio-container{text-align: center;}
+
+.posa{display: flex; justify-content: center;}
+
+.posa img{width: 250; height: 250; object-fit: cover; transition: all ease-in-out 0.05 }
+
+.posa img:hover{ width: 25%;}
+
+
+p{text-align: center; font: 900; font-weight: 1000; color: rgba(20, 212, 13, 0.733);}
